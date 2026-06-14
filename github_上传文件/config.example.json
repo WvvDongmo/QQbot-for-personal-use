@@ -1,7 +1,0 @@
-{
-  "deepseek_api_key": "在这里填你的 DeepSeek API Key（sk- 开头）",
-  "deepseek_base_url": "https://api.deepseek.com/v1",
-  "deepseek_model": "deepseek-chat",
-  "temperature": 1.1,
-  "max_tokens": 1500
-}
